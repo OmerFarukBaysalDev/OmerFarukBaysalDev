@@ -43,9 +43,23 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true" />
+  <!-- Stats (genel istatistikler) -->
+  <img 
+       height="170em" 
+       src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF" 
+  />
+
+  <!-- Most Used Languages (detaylı ve koyu temalı) -->
+  <img 
+       height="170em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&card_width=420" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+       height="170em" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF" 
+  />
 </p>
 
 ---
