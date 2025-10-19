@@ -1,4 +1,4 @@
-# 💻 .NET Developer | Flutter Enthusiast | Full-Stack Developer
+# 💻 .NET Developer | Full-Stack Developer
 
 <!-- Banner -->
 <p align="center">
