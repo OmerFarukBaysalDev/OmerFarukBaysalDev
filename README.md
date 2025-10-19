@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://i.imgur.com/iXuL1HG.png" width="100%" alt="banner"/>
 </p>
-
+ 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Ömer</span></h1>
 <h3 align="center">⚙️ .NET Developer | Building scalable, impactful & timeless software solutions</h3>
 
