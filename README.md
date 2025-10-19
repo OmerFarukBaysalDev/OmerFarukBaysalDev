@@ -40,28 +40,19 @@
 
 ---
 
-### 📊 GitHub Analytics
+🛠️ GitHub Analytics
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;"> <!-- Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
 
-<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <!-- Stats (genel istatistikler) -->
-  <img 
-       height="150em" 
-       src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF" 
-  />
+<!-- Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-  <!-- Most Used Languages (detaylı ve koyu temalı) -->
-  <img 
-       height="150em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&card_width=420" 
-  />
+<!-- Language Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=8&card_width=400" alt="Top Languages" />
 
-  <!-- Streak Stats -->
-  <img 
-       height="150em" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF" 
-  />
-</p>
-
+</p><!-- Activity Graph --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukbaysaldev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00bcd4&line=00bcd4&point=FFFFFF&area=true&hide_title=false" alt="GitHub Activity Graph" width="100%" /> </p><!-- Detailed Metrics --><div align="center">
+📈 Detailed Metrics
+<!-- Trophy Stats --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=omerfarukbaysaldev&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" width="90%" /> </p><!-- Metrics --><p align="center"> <img src="https://metrics.lecoq.io/omerfarukbaysaldev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics" width="90%" /> </p></div>
 ---
 
 ### 🌐 Connect With Me
