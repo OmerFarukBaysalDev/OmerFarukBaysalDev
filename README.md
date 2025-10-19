@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Ömer Faruk Baysal</span></h1>
-<h3 align="center">⚙️ Senior .NET Developer | Flutter Specialist | Building Scalable & Impactful Software Solutions</h3>
+<h3 align="center">⚙️ .NET Developer | Building Scalable & Impactful Software Solutions</h3>
 
 ---
 
