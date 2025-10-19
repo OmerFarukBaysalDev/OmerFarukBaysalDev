@@ -1,4 +1,4 @@
-<!-- 🌑 DARK PROFESSIONAL README -->
+# 💻 .NET Developer | Flutter Enthusiast | Full-Stack Developer
 
 <!-- Banner -->
 <p align="center">
@@ -27,6 +27,10 @@
 🚀 **Currently Exploring**: Flutter architecture patterns, .NET Core microservices, and advanced state management solutions.
 
 🎯 **Mission**: Building software that is **clean, maintainable, and timeless** with focus on **automation** and **data-driven solutions**.
+
+🤖 **Specialized** in developing **web bots with JavaScript** for automation, data scraping, and workflow optimization.
+
+💪 **Fitness Enthusiast** applying gym discipline and combat sports mindset to coding challenges.
 
 ---
 
@@ -70,9 +74,9 @@
 
 <div align="center">
 
-### 🚀 Development Activity
+### 🚀 Development Metrics
 
-<!-- Stats Cards Row -->
+<!-- Stats Cards -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <!-- Main Stats -->
@@ -81,16 +85,23 @@
 <!-- Streak Stats -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
-<!-- Language Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=8&card_width=400" alt="Top Languages" />
+<!-- Custom Language Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=6&hide=html,css,scss,less&exclude_repo=github-readme-stats" alt="Top Languages" />
 
 </div>
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omerfarukbaysaldev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00bcd4&line=00bcd4&point=FFFFFF&area=true&hide_title=false&width=100%)
+### 💻 Primary Technologies
 
-### 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omerfarukbaysaldev&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&width=90%)
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+
+![C#](https://img.shields.io/badge/C%23-Professional-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-Expert-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
 
 </div>
 
@@ -101,7 +112,7 @@
 ### 🔧 Core Competencies
 - **Enterprise Applications**: Admin panels, CRM systems, ERP solutions
 - **Mobile Development**: Cross-platform apps with Flutter & Dart
-- **Web Automation**: Advanced web bots and scraping solutions
+- **Web Automation**: Advanced web bots and scraping solutions with JavaScript
 - **Database Design**: Optimized SQL schemas and data modeling
 - **API Development**: RESTful APIs with .NET Core and Entity Framework
 
