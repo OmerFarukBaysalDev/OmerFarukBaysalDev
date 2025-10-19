@@ -7,16 +7,6 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Ömer Faruk Baysal</span></h1>
 <h3 align="center">⚙️ .NET Developer | Building Scalable & Impactful Software Solutions</h3>
- 
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=omerfarukbaysaldev&label=Profile%20views&color=00bcd4&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/omerfarukbaysaldev?color=00bcd4&style=for-the-badge)
-  ![Repositories](https://img.shields.io/badge/Repositories-15+-00bcd4?style=for-the-badge)
-  
-</div>
 
 ---
 
@@ -70,25 +60,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 🚀 Development Metrics
-
-<!-- Stats Cards -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-
-<!-- Main Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
-
-<!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-<!-- Custom Language Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=6&exclude_repo=github-readme-stats,other-small-repo1,other-small-repo2" alt="Top Languages" />
-
-</div>
 
 ### 💻 Primary Technologies
 
