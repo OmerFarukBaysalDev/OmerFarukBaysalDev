@@ -94,13 +94,13 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
 
-![C#](https://img.shields.io/badge/C%23-Professional-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20Core-Expert-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Learning-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Learning-0175C2?style=flat-square&logo=dart&logoColor=white)
 </div>
 
 </div>
