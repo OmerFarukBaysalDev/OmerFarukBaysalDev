@@ -4,44 +4,78 @@
 <p align="center">
   <img src="https://i.imgur.com/iXuL1HG.png" width="100%" alt="banner"/>
 </p>
- 
-<h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Ömer</span></h1>
-<h3 align="center">⚙️ .NET Developer | Building scalable, impactful & timeless software solutions</h3>
+
+<h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Ömer Faruk Baysal</span></h1>
+<h3 align="center">⚙️ Senior .NET Developer | Flutter Specialist | Building Scalable & Impactful Software Solutions</h3>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/omerfarukbaysaldev">
-    <img src="https://komarev.com/ghpvc/?username=omerfarukbaysaldev&label=Profile%20views&color=00bcd4&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=omerfarukbaysaldev&label=Profile%20views&color=00bcd4&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/omerfarukbaysaldev?color=00bcd4&style=for-the-badge)
+  ![Repositories](https://img.shields.io/badge/Repositories-15+-00bcd4?style=for-the-badge)
+  
+</div>
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-💡 Passionate about designing **efficient systems**, **elegant UIs**, and **backend logic that scales**.  
-🌱 Currently diving deep into **Flutter architecture**, **state management**, and **.NET Core microservices**.  
-🧰 Tech Stack: `.NET Core`, `ASP.NET Core`, `Entity Framework`, `Flutter`, `Dart`, `SQL Server`, `Git`, `Postman`, `Docker`, **basic Python (for scripting & data handling)**, **JavaScript (web automation & bot development)**.  
-🎯 Focused on building software that is **clean, maintainable, and timeless**, with a special interest in **automating tasks and data processing pipelines**.  
-🤖 Experienced in **developing web bots in JavaScript** to automate repetitive tasks, scrape websites, and gather actionable data.  
-💪 Fitness enthusiast with **gym & combat sports discipline**, believing in **focus and consistency**.  
-☕ Fun fact: My best coding happens with **coffee, deep focus, and structured routines**.  
-🏗️ Background: Experienced in **admin panels, blog systems, CRM solutions**, and **intelligent automation scripts**.
+💡 **Passionate Software Craftsman** with expertise in designing **efficient systems**, **elegant UIs**, and **scalable backend architectures**.  
 
+🚀 **Currently Exploring**: Flutter architecture patterns, .NET Core microservices, and advanced state management solutions.
+
+🎯 **Mission**: Building software that is **clean, maintainable, and timeless** with focus on **automation** and **data-driven solutions**.
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,html,css,js,bootstrap,tailwind,vue,git,docker,linux,azure,postman,mysql,sqlite,vscode,visualstudio,photoshop&theme=dark&perline=10" />
-</p>
+### 💻 Backend Development
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🌐 Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & DevOps
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-🛠️ GitHub Analytics
-<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;"> <!-- Stats Card -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🚀 Development Activity
+
+<!-- Stats Cards Row -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<!-- Main Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&icon_color=00bcd4&text_color=FFFFFF&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
 
 <!-- Streak Stats -->
@@ -50,32 +84,91 @@
 <!-- Language Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=8&card_width=400" alt="Top Languages" />
 
-</p><!-- Activity Graph --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukbaysaldev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00bcd4&line=00bcd4&point=FFFFFF&area=true&hide_title=false" alt="GitHub Activity Graph" width="100%" /> </p><!-- Detailed Metrics --><div align="center">
-📈 Detailed Metrics
-<!-- Trophy Stats --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=omerfarukbaysaldev&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" width="90%" /> </p><!-- Metrics --><p align="center"> <img src="https://metrics.lecoq.io/omerfarukbaysaldev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics" width="90%" /> </p></div>
----
+</div>
 
-### 🌐 Connect With Me
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omerfarukbaysaldev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00bcd4&line=00bcd4&point=FFFFFF&area=true&hide_title=false&width=100%)
 
-<p align="center">
-  <a href="mailto:omerfarukbaysal.dev@gmail.com" target="_blank" style="margin-right:10px;">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="30px" />
-  </a>
-  <a href="https://linkedin.com/in/omerfarukbaysaldev" target="_blank" style="margin-right:10px;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30px" />
-  </a>
-  <a href="https://instagram.com/omerfarukbaysal.dev" target="_blank" style="margin-right:10px;">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="30px" />
-  </a>
-  <a href="https://github.com/omerfarukbaysaldev" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="30px" />
-  </a>
-</p>
+### 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omerfarukbaysaldev&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4&width=90%)
+
+</div>
 
 ---
 
-<h4 align="center">"Clean code is a reflection of a clean mind."</h4>
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a1a1a&height=120&section=footer" />
-</p>
+### 🔧 Core Competencies
+- **Enterprise Applications**: Admin panels, CRM systems, ERP solutions
+- **Mobile Development**: Cross-platform apps with Flutter & Dart
+- **Web Automation**: Advanced web bots and scraping solutions
+- **Database Design**: Optimized SQL schemas and data modeling
+- **API Development**: RESTful APIs with .NET Core and Entity Framework
+
+### 🎯 Specializations
+- **Backend Architecture**: Microservices, clean architecture, domain-driven design
+- **Frontend Development**: Responsive UIs, state management, performance optimization
+- **Automation Scripts**: JavaScript bots, data processing pipelines, workflow automation
+- **System Integration**: Third-party API integrations, payment gateways, cloud services
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Enterprise Solutions
+- **Admin Panel Systems**: Comprehensive management dashboards
+- **CRM Platforms**: Customer relationship management solutions
+- **Blog Systems**: Content management with advanced features
+- **E-commerce Platforms**: Full-featured online shopping systems
+
+### 📱 Mobile Applications
+- **Cross-platform Apps**: Flutter-based mobile solutions
+- **UI/UX Focused**: Clean, intuitive user interfaces
+- **Performance Optimized**: Smooth and responsive experiences
+
+### 🤖 Automation Tools
+- **Web Bots**: JavaScript automation for repetitive tasks
+- **Data Scrapers**: Efficient data extraction and processing
+- **Workflow Automators**: Streamlined business processes
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-omerfarukbaysal.dev@gmail.com-00bcd4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omerfarukbaysal.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfarukbaysaldev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omerfarukbaysal.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omerfarukbaysaldev)
+
+</div>
+
+---
+
+## 💡 Philosophy & Approach
+
+> **"Clean code is not just about working software, it's about creating maintainable, scalable, and timeless solutions that stand the test of time."**
+
+### 🎯 Development Principles
+- **Code Quality**: Emphasis on clean, readable, and maintainable code
+- **Performance**: Optimized solutions with efficient resource usage
+- **Scalability**: Architecture designed for growth and expansion
+- **User Experience**: Intuitive interfaces with exceptional usability
+- **Automation**: Eliminating repetitive tasks through smart solutions
+
+### 🏋️ Personal Mindset
+- **Continuous Learning**: Always exploring new technologies and methodologies
+- **Fitness Discipline**: Applying gym and combat sports discipline to coding
+- **Structured Approach**: Coffee-powered coding sessions with deep focus
+- **Problem Solving**: Analytical thinking combined with creative solutions
+
+---
+
+<div align="center">
+
+### ⚡ **Let's Build Something Amazing Together!**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:1a1a1a&height=120&section=footer)
+
+</div>
