@@ -86,7 +86,7 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=omerfarukbaysaldev&theme=tokyonight&hide_border=true&background=0D1117&ring=00bcd4&fire=00bcd4&currStreakLabel=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
 <!-- Custom Language Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=6&hide=html,css,scss,less&exclude_repo=github-readme-stats" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00bcd4&text_color=FFFFFF&langs_count=6&exclude_repo=github-readme-stats,other-small-repo1,other-small-repo2" alt="Top Languages" />
 
 </div>
 
